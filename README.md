@@ -1,5 +1,6 @@
 # CEC_OPENPROJECT_GEOSPATIAL
 # Project Report: Oceanic SAR Wind Field Estimator
+<img width="1914" height="1029" alt="image" src="https://github.com/user-attachments/assets/d6fd33ac-d721-4a13-bcba-50b73be44d41" />
 
 ## Overview
 A full-stack web application designed to estimate and visualize ocean wind speeds and directions using satellite radar data. By combining Synthetic Aperture Radar (SAR) imagery with meteorological forecast data, the application calculates high-resolution wind fields over user-selected coastal and oceanic regions.
@@ -58,7 +59,6 @@ npm run dev
 
 <img width="1885" height="1031" alt="image" src="https://github.com/user-attachments/assets/0357b19b-9418-45a9-94ec-8e91fcc3f63b" />
 <img width="1902" height="1027" alt="image" src="https://github.com/user-attachments/assets/0adb2c21-acd5-4b56-872f-f297c5449f9e" />
-<img width="1914" height="1029" alt="image" src="https://github.com/user-attachments/assets/d6fd33ac-d721-4a13-bcba-50b73be44d41" />
 
 <img width="1911" height="1025" alt="image" src="https://github.com/user-attachments/assets/6d853bee-9c5b-4944-9860-76b58e263887" />
 <img width="1909" height="1001" alt="image" src="https://github.com/user-attachments/assets/a92026fb-80e1-4d23-ba93-d4c6af577fd7" />
