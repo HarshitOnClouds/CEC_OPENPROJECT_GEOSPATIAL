@@ -1,6 +1,7 @@
 # CEC_OPENPROJECT_GEOSPATIAL
 # Project Report: Oceanic SAR Wind Field Estimator
 <img width="1914" height="1029" alt="image" src="https://github.com/user-attachments/assets/d6fd33ac-d721-4a13-bcba-50b73be44d41" />
+<img width="1855" height="384" alt="image" src="https://github.com/user-attachments/assets/5dc900f4-1dd1-42db-b1ea-530d9de719c5" />
 
 ## Overview
 A full-stack web application designed to estimate and visualize ocean wind speeds and directions using satellite radar data. By combining Synthetic Aperture Radar (SAR) imagery with meteorological forecast data, the application calculates high-resolution wind fields over user-selected coastal and oceanic regions.
